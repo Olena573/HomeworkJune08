@@ -15,6 +15,10 @@ public class Main {
 
         two_dimensional_array();
 
+        more_complex_homework1();
+
+        more_complex_homework2();
+
     }
 
     static void numeric_and_for() {
@@ -32,12 +36,11 @@ public class Main {
             array1[j] = 12 + 20 + j;
             //here the "For" cycle is used for printing out the data of the massive;
 
-            }
-            for (int i = 0; i < abc; i++) {
-                System.out.println(array1[i]);
-            }
         }
-
+        for (int i = 0; i < abc; i++) {
+            System.out.println(array1[i]);
+        }
+    }
 
 
     static void for_and_multiplying() {
@@ -107,7 +110,7 @@ public class Main {
         }
     }
 }
-//until I am not done with this part of my homework, there is no time for the other part.
+
 
 
 
